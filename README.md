@@ -1,4 +1,5 @@
-📌 What I Did
+# 📌 What I Did
+
 Automated Unit Conversion: Developed logic to convert heterogeneous measurement units (Liters/Kilograms) into a standardized Gram format for uniform analysis.
 
 Statistical Computation: Utilized NumPy to calculate the sample standard deviation (ddof=1), providing insights into data variability.
@@ -9,21 +10,20 @@ Conditional Risk Labeling: Engineered a "HighRisk" flagging system by integratin
 
 Quality Assurance: Implemented a robust testing suite with Pytest to ensure 100% accuracy across all data transformation functions.
 
-🛠️ Technologies
-Python
+# 🛠️ Technologies
 
-Pandas
+*   Python
+*   Pandas
+*   NumPy
+*   pytest
 
-NumPy
+# ✅ Results
 
-pytest
+*   All tests passed successfully. (9/9 tests passed)
 
-✅ Results
-All tests passed successfully. (9/9 tests passed)
+# 📎 Reference
 
-📎 Reference
 Original project: https://github.com/Code2Work/data-science-project-12
-
 
 
 
